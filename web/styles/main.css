@@ -1,0 +1,334 @@
+*{
+    margin:0;
+    padding:1px;
+    text-decoration: none;
+ }
+
+ .logoarea{
+    max-width:1900px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding-bottom: 0px;
+     
+ }
+ .signIn{
+     text-align: right;
+     
+ }
+ h1{
+    font-family: arial, Times,sans-serif;
+    font-weight: 400;
+    height: 60px;
+    width:100%;
+   }
+   
+ img{
+ 
+     border:3px solid red;
+     margin-left: 500px;
+     margin-top:10px;
+     margin-bottom:10px;
+     
+ }
+ 
+
+ 
+ #imgram{
+     padding-top: 50px;
+     display:block;
+     
+     
+ }
+ 
+
+ 
+#title{
+     text-align: center;
+     float:right;
+     margin-right: 610px;
+     margin-top: 50px;
+    font-family:Georgia, serif;
+   
+ }
+ 
+ .linksarea{
+    background-color: gray;
+    max-width:1900px;
+    margin: 0 auto;
+    border: 2px solid black;
+ }
+ 
+ 
+ .linksarea ul{
+     text-align: center;
+     
+ }
+ .linksarea ul li{
+     display:inline-block;
+     text-align: right;
+     color:green;
+     font-size: 30px;
+     font: "Times New Roman";
+     text-decoration: underline;
+ }
+ 
+ a:link{
+     color: red;
+ }
+ 
+
+ 
+ a:visited{
+     color:black;
+ }
+ 
+  a:hover{
+     color: green;
+ }
+ a:active{
+     
+     color:blue;
+ }
+ 
+ body{
+     background: #33A1FF;
+     margin-top:0px;
+     padding:0px;
+     margin:0px;
+   
+ }
+
+ #sidebar{
+   
+    width: 200px;
+    height:65.5%;
+    display:block;
+    position:absolute;
+    text-decoration: none;
+    list-style: none;
+    padding: 100px 100px 0px 200px;
+    font-size: 30px;
+
+   
+   
+ }
+
+ #sidebar2{
+   
+    width: 1395px;
+    height:75%;
+    display:block;
+    line-height: 300%;
+    position:absolute;
+    padding-right: 10px;
+    padding-left:10px;
+    margin-left:500px;
+    text-align: center;
+    font-size: 160%;
+    border: 1px solid red;
+ }
+ 
+ #sidebar3{
+   
+    width: 1395px;
+    height:75%;
+    display:block;
+    line-height: 300%;
+    position:absolute;
+    padding-right: 10px;
+    padding-left:200px;
+    margin-left:500px;
+    text-align: center;
+    font-size: 160%;
+    border: 1px solid red;
+ }
+ 
+ #sidebar4{
+   
+    width: 1395px;
+    height:75%;
+    display:block;
+    line-height: 100%;
+    position:absolute;
+    padding-right: 10px;
+    padding-left:50px;
+    margin-left:500px;
+    text-align: left;
+    font-size: 160%;
+    border: 1px solid red;
+ }
+ 
+  #catalogsidebar{
+   
+    width: 1395px;
+    height:75%;
+    display:block;
+    position:absolute;
+    padding-right: 10px;
+    padding-left:10px;
+    margin-left:500px;
+    text-align: left;
+    
+   
+ }
+ 
+  #itemsidebar{
+   
+    width: 1024px;
+    height:25%;
+    padding-top:0px;
+    margin-left:850px;
+    margin-top: -260px;
+    margin-bottom: -200px;
+    text-align: left;
+    font-size: 160%;
+    border: 1px solid black;
+ }
+ 
+ #selection{
+    text-align:  center;
+    font-family: fantasy;
+    font-size: 300%; 
+    color: gray;
+     
+     
+ }
+#sidebar ul{
+    margin:0px;
+ }
+ 
+ #sidebar ul li{
+     
+     list-style:none;
+ }
+ 
+
+ .breadcrumb{
+     text-align: right;
+     margin-bottom: 0px;
+     text-decoration: none;
+ }
+ 
+.breadcrumb li{
+    list-style-type: none;
+    padding-right: 10px;
+    
+ }
+
+ ol li{
+     list-style-type: none;
+ }
+ 
+ #cartTable{
+    width: 1400px;
+    height:65%;
+    display:block;
+    line-height: 200%;
+    margin-left:375px;
+    text-align: center;
+    font-size: 200%;
+    border: 3px solid black;
+    padding-left: 100px;
+    padding-right:0px;
+    padding-top:50px;
+    padding-bottom:30px;
+    position:absolute;
+     
+ }
+ td:nth-of-type(1){
+     padding-right:200px;
+ }
+ 
+  td:nth-of-type(2){
+     padding-right:200px;
+ }
+
+  td:nth-of-type(3){
+     padding-right:200px;
+ }
+ 
+  th:nth-of-type(1){
+        padding-right:200px;
+ }
+  th:nth-of-type(2){
+        padding-right:200px;
+ }
+ th:nth-of-type(3){
+        padding-right:200px;
+        
+ }
+ 
+ .button1{
+    background-color: #008000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     
+ }
+ 
+ .button2{
+    background-color: #008000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     
+ }
+ 
+ .button3{
+    background-color: #008000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     
+ }
+ 
+ .button4{
+    background-color: #FF0000; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     
+ }
+ #pcrepairpic{
+     
+ 
+     
+ }
+ .align_left{
+     
+     text-align: left;
+ }
+ 
+ .footer{
+     text-align: center;
+     max-width:1900px;
+     margin: 0 auto;
+     background: #fff;
+     margin-top:730px;
+    
+    
+ }
